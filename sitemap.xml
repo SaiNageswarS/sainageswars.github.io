@@ -4,6 +4,12 @@
   
   <url>
     <loc>http://www.example.com/</loc>
+    <lastmod>2017-09-28T08:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/tech/</loc>
+    <lastmod>2017-09-28T08:00:00+06:00</lastmod>
   </url>
   
   <url>
@@ -13,6 +19,18 @@
   
   <url>
     <loc>http://www.example.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/page/</loc>
+    <lastmod>2017-09-28T08:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/authors/sainageswar/</loc>
+    <lastmod>2017-09-28T08:00:00+06:00</lastmod>
     <priority>0</priority>
   </url>
   
